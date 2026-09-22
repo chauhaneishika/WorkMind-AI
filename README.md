@@ -3,6 +3,8 @@
 ### AI-Powered Workforce Intelligence Platform
 
 > Transform workforce data into intelligent HR decisions.
+> ### 🌐 Live Demo
+     [**🚀 Try WorkMind AI →**] (https://workmindai1.netlify.app/)
 
 WorkMind AI is an AI-driven workforce management platform designed to help HR teams understand employee data, automate HR workflows, identify workforce risks, and make data-driven decisions across the employee lifecycle.
 
